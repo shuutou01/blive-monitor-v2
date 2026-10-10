@@ -158,26 +158,21 @@ def fetch_with_retry(
 
 # ==================== B站 API ====================
 
-def fetch_bilibili_batch(room_ids: List[str]) -> Dict[str, Dict[str, Any]]:
-    """B站直播间批量检测 - getRoomBaseInfo 接口
+def fetch_bilibili_single(room_id: str) -> Dict[str, Any]:
+    """B站单房间查询 - get_info 接口
+
+    支持短房间号（如 510），替代批量接口 getRoomBaseInfo
 
     Args:
-        room_ids: 直播间 ID 列表
+        room_id: 直播间 ID
 
     Returns:
-        {room_id_str: {live_status, title, uname, online, ...}}
+        房间数据字典，格式与批量接口兼容
 
     Raises:
         Exception: API 返回错误时抛出
     """
-    params = [("req_biz", "web_room_componet")]
-    for rid in room_ids:
-        params.append(("room_ids", rid))
-
-    url = (
-        "https://api.live.bilibili.com/xlive/web-room/v1/index/getRoomBaseInfo?"
-        + urllib.parse.urlencode(params)
-    )
+    url = f"https://api.live.bilibili.com/room/v1/Room/get_info?room_id={room_id}"
 
     raw = fetch_with_retry(
         url,
@@ -188,9 +183,53 @@ def fetch_bilibili_batch(room_ids: List[str]) -> Dict[str, Dict[str, Any]]:
 
     data = json.loads(raw)
     if data.get("code") != 0:
-        raise Exception(f"B站批量接口错误: code={data.get('code')}, msg={data.get('message')}")
+        raise Exception(f"B站单房间接口错误: code={data.get('code')}, msg={data.get('message')}")
 
-    return data["data"]["by_room_ids"]
+    info = data["data"]
+    # 转换为与批量接口兼容的格式
+    return {
+        "room_id": int(room_id),
+        "live_status": info.get("live_status", 0),
+        "title": info.get("title", ""),
+        "uname": info.get("uname", ""),
+        "online": info.get("online", 0),
+        "parent_area_name": info.get("parent_area_name", ""),
+        "area_name": info.get("area_name", ""),
+    }
+
+
+def fetch_bilibili_batch(room_ids: List[str]) -> Dict[str, Dict[str, Any]]:
+    """B站直播间检测 - 逐房间单接口查询
+
+    因短房间号（如 510）在批量接口 getRoomBaseInfo 中不被支持，
+    改用单房间查询接口 get_info 逐个查询。
+
+    Args:
+        room_ids: 直播间 ID 列表
+
+    Returns:
+        {room_id_str: {live_status, title, uname, online, ...}}
+
+    Raises:
+        Exception: 所有房间查询均失败时抛出
+    """
+    result: Dict[str, Dict[str, Any]] = {}
+    failed_count = 0
+    for rid in room_ids:
+        try:
+            d = fetch_bilibili_single(rid)
+            result[str(rid)] = d
+        except Exception as e:
+            logger.warning("[B站] 单房间查询失败 room_id=%s: %s", rid, e)
+            failed_count += 1
+            continue
+
+    if not result:
+        raise Exception(f"所有房间查询均失败（{failed_count}/{len(room_ids)}）")
+    if failed_count > 0:
+        logger.warning("B站查询部分失败：成功 %d，失败 %d", len(result), failed_count)
+
+    return result
 
 
 # ==================== 抖音数据提取（多种策略） ====================
