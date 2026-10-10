@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-11 01:36:34",
+  "updated": "2026-10-11 01:42:19",
   "rooms": [
     {
       "platform": "bilibili",
       "id": "510",
       "name": "阿梓从小就很可爱",
-      "status": "error",
-      "title": "批量接口未返回房间 510 的数据",
-      "online": 0,
-      "area": "",
-      "time": "2026-10-11 01:36:34",
+      "status": "live",
+      "title": "全力考绿龙",
+      "online": 256057,
+      "area": "网游·CS2",
+      "time": "2026-10-11 01:42:19",
       "sec_uid": "",
       "last_live": "",
       "live_duration": ""
