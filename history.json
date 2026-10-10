@@ -1,21 +1,6 @@
 [
   {
     "time": "2026-10-02 07:25:27",
-    "name": "Yifei",
-    "platform": "douyin",
-    "status": "offline",
-    "title": "纯素颜",
-    "changed": false,
-    "prev": null,
-    "push": null,
-    "rid": "jiubugaosuni315",
-    "type": "live_off",
-    "level": "info",
-    "detail": "",
-    "account": "jiubugaosuni315"
-  },
-  {
-    "time": "2026-10-02 07:25:27",
     "name": "披萨解说",
     "platform": "douyin",
     "status": "offline",
@@ -7493,6 +7478,21 @@
     "changed": true,
     "prev": "offline",
     "push": "pushed_ok",
+    "rid": "510",
+    "type": "live_on",
+    "level": "info",
+    "detail": "",
+    "account": "510"
+  },
+  {
+    "time": "2026-10-11 03:58:30",
+    "name": "阿梓从小就很可爱",
+    "platform": "bilibili",
+    "status": "live",
+    "title": "全力考绿龙",
+    "changed": false,
+    "prev": null,
+    "push": null,
     "rid": "510",
     "type": "live_on",
     "level": "info",
