@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11 02:29:21",
+  "updated": "2026-10-11 02:51:29",
   "rooms": [
     {
       "platform": "bilibili",
@@ -7,12 +7,12 @@
       "name": "阿梓从小就很可爱",
       "status": "live",
       "title": "全力考绿龙",
-      "online": 427872,
+      "online": 320495,
       "area": "网游·CS2",
-      "time": "2026-10-11 02:29:21",
+      "time": "2026-10-11 02:51:29",
       "sec_uid": "",
       "last_live": "",
-      "live_duration": "47min"
+      "live_duration": "1h9min"
     }
   ]
 }
