@@ -64,7 +64,9 @@ jobs:
       - name: Run check
         env:
           BLIVE_CONFIG: ${{ secrets.BLIVE_CONFIG }}
-        run: python3 check_status.py
+        run: |
+          echo "配置长度: ${#BLIVE_CONFIG}"
+          python3 check_status.py
 
       # 新作品监控（无头浏览器抓取用户主页，绕过抖音反爬；列表来自独立的 post_rooms.json）
       - name: Check new posts
