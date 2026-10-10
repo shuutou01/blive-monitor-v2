@@ -136,9 +136,10 @@
     "sec_uid": "MS4wLjABAAAAOB4y0oN1FO5qo-OdvNf0hGubotW1KT_MdJfGxH126i8"
   },
   "bilibili_510": {
-    "last_live": "",
-    "live_start": "2026-10-11 01:42:19",
-    "live_duration": "2h55min"
+    "last_live": "2026-10-11 01:42:19",
+    "live_start": "",
+    "live_duration": "2h55min",
+    "last_duration": "3h12min"
   },
   "bilibili_7706705": {
     "last_live": "",
