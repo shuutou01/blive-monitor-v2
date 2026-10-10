@@ -1,21 +1,6 @@
 [
   {
     "time": "2026-10-01 15:15:17",
-    "name": "整天白日梦",
-    "platform": "douyin",
-    "status": "offline",
-    "title": "泥嚎",
-    "changed": false,
-    "prev": null,
-    "push": null,
-    "rid": "81197422897",
-    "type": "live_off",
-    "level": "info",
-    "detail": "",
-    "account": "81197422897"
-  },
-  {
-    "time": "2026-10-01 15:15:17",
     "name": "账号已注销",
     "platform": "douyin",
     "status": "offline",
@@ -7498,5 +7483,20 @@
     "level": "warn",
     "detail": "抖音接口被风控，配置 douyin_cookie 可获取具体作品",
     "account": "74597663503"
+  },
+  {
+    "time": "2026-10-11 01:35:08",
+    "name": "阿梓从小就很可爱",
+    "platform": "bilibili",
+    "status": "offline",
+    "title": "",
+    "changed": false,
+    "prev": null,
+    "push": null,
+    "rid": "7706705",
+    "type": "live_off",
+    "level": "info",
+    "detail": "",
+    "account": "7706705"
   }
 ]
