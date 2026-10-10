@@ -494,7 +494,7 @@ def bili_status_on_batch_failure(prev_status: Optional[str]) -> str:
 def format_push_title(name: str, result: Dict[str, Any]) -> str:
     """格式化推送标题"""
     if result["status"] == "live":
-        return f"📢 {name} 开播了！"
+        return f"📢 {name} 开播了，全体注意❗"
     return f"▶️ {name} 轮播/回放中"
 
 
@@ -510,7 +510,7 @@ def format_push_desp(
     now = bjnow().strftime("%Y-%m-%d %H:%M:%S")
 
     lines = [
-        f" 😊你的{name} 开播了！"
+        f" 😊伟大的{name} 已经开播，速进😊"
         if result["status"] == "live"
         else f" ▶️ {name} 轮播/回放中",
         "",
@@ -527,6 +527,7 @@ def format_push_desp(
         [
             "",
             f"👉 [进入直播间]({live_url})",
+            "",
             f"检测时间: {now}",
         ]
     )
