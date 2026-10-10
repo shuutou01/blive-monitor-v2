@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-11 01:35:08",
+  "updated": "2026-10-11 01:36:34",
   "rooms": [
     {
       "platform": "bilibili",
-      "id": "7706705",
+      "id": "510",
       "name": "阿梓从小就很可爱",
-      "status": "offline",
-      "title": "",
+      "status": "error",
+      "title": "批量接口未返回房间 510 的数据",
       "online": 0,
       "area": "",
-      "time": "2026-10-11 01:35:08",
+      "time": "2026-10-11 01:36:34",
       "sec_uid": "",
       "last_live": "",
       "live_duration": ""
