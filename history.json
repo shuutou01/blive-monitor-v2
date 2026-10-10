@@ -1,21 +1,6 @@
 [
   {
     "time": "2026-10-02 07:25:27",
-    "name": "27～",
-    "platform": "douyin",
-    "status": "offline",
-    "title": "正在直播",
-    "changed": false,
-    "prev": null,
-    "push": null,
-    "rid": "83134194400",
-    "type": "live_off",
-    "level": "info",
-    "detail": "",
-    "account": "83134194400"
-  },
-  {
-    "time": "2026-10-02 07:25:27",
     "name": "Yifei",
     "platform": "douyin",
     "status": "offline",
@@ -7493,6 +7478,21 @@
     "changed": true,
     "prev": "offline",
     "push": "deduped",
+    "rid": "510",
+    "type": "live_on",
+    "level": "info",
+    "detail": "",
+    "account": "510"
+  },
+  {
+    "time": "2026-10-11 03:54:09",
+    "name": "阿梓从小就很可爱",
+    "platform": "bilibili",
+    "status": "live",
+    "title": "全力考绿龙",
+    "changed": true,
+    "prev": "offline",
+    "push": "pushed_ok",
     "rid": "510",
     "type": "live_on",
     "level": "info",
