@@ -494,7 +494,7 @@ def bili_status_on_batch_failure(prev_status: Optional[str]) -> str:
 def format_push_title(name: str, result: Dict[str, Any]) -> str:
     """格式化推送标题"""
     if result["status"] == "live":
-        return f"🔴 {name} 开播了！"
+        return f"📢 {name} 开播了！"
     return f"▶️ {name} 轮播/回放中"
 
 
@@ -502,7 +502,7 @@ def format_push_desp(
     name: str, platform: str, rid: str, result: Dict[str, Any]
 ) -> str:
     """格式化推送内容"""
-    platform_label = {"bilibili": "B站", "douyin": "抖音"}.get(platform, platform)
+    platform_label = {"bilibili": "哔哩哔哩", "douyin": "抖音"}.get(platform, platform)
     if platform == "bilibili":
         live_url = f"https://live.bilibili.com/{rid}"
     else:  # douyin
@@ -510,25 +510,23 @@ def format_push_desp(
     now = bjnow().strftime("%Y-%m-%d %H:%M:%S")
 
     lines = [
-        f"## 🎬 {name} 开播了！"
+        f" 😊你的{name} 开播了！"
         if result["status"] == "live"
-        else f"## ▶️ {name} 轮播/回放中",
+        else f" ▶️ {name} 轮播/回放中",
         "",
-        f"**平台**: {platform_label}",
-        f"**标题**: {result.get('title', '-')}",
+        f"平台: {platform_label}",
+        f"直播间标题: {result.get('title', '-')}",
     ]
 
     if result.get("area"):
-        lines.append(f"**分区**: {result['area']}")
+        lines.append(f"直播分区: {result['area']}")
     if result.get("online"):
-        lines.append(f"**人气**: {result['online']}")
+        lines.append(f"人气: {result['online']}")
 
     lines.extend(
         [
             "",
             f"👉 [进入直播间]({live_url})",
-            "",
-            f"---",
             f"检测时间: {now}",
         ]
     )
