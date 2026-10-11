@@ -1,21 +1,6 @@
 [
   {
     "time": "2026-10-03 15:57:25",
-    "name": "峰哥亡命天涯",
-    "platform": "bilibili",
-    "status": "offline",
-    "title": "be一下",
-    "changed": false,
-    "prev": null,
-    "push": null,
-    "rid": "22230707",
-    "type": "live_off",
-    "level": "info",
-    "detail": "",
-    "account": "22230707"
-  },
-  {
-    "time": "2026-10-03 15:57:25",
     "name": "长春小猪装机（只做性价比）",
     "platform": "douyin",
     "status": "offline",
@@ -7492,6 +7477,21 @@
     "title": "蜜蜂VS老鼠",
     "changed": true,
     "prev": "live",
+    "push": null,
+    "rid": "510",
+    "type": "live_off",
+    "level": "info",
+    "detail": "",
+    "account": "510"
+  },
+  {
+    "time": "2026-10-12 04:28:46",
+    "name": "阿梓从小就很可爱",
+    "platform": "bilibili",
+    "status": "offline",
+    "title": "蜜蜂VS老鼠",
+    "changed": false,
+    "prev": null,
     "push": null,
     "rid": "510",
     "type": "live_off",
