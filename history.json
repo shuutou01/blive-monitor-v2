@@ -1,21 +1,6 @@
 [
   {
     "time": "2026-10-05 10:05:22",
-    "name": "整天白日梦",
-    "platform": "douyin",
-    "status": "offline",
-    "title": "泥嚎",
-    "changed": false,
-    "prev": null,
-    "push": null,
-    "rid": "81197422897",
-    "type": "live_off",
-    "level": "info",
-    "detail": "",
-    "account": "81197422897"
-  },
-  {
-    "time": "2026-10-05 10:05:22",
     "name": "账号已注销",
     "platform": "douyin",
     "status": "offline",
@@ -7492,6 +7477,21 @@
     "title": "打鸡蛋",
     "changed": true,
     "prev": "live",
+    "push": null,
+    "rid": "510",
+    "type": "live_off",
+    "level": "info",
+    "detail": "",
+    "account": "510"
+  },
+  {
+    "time": "2026-10-14 05:38:59",
+    "name": "阿梓从小就很可爱",
+    "platform": "bilibili",
+    "status": "offline",
+    "title": "打鸡蛋",
+    "changed": false,
+    "prev": null,
     "push": null,
     "rid": "510",
     "type": "live_off",
