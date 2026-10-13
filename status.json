@@ -1,18 +1,18 @@
 {
-  "updated": "2026-10-14 04:33:52",
+  "updated": "2026-10-14 05:06:47",
   "rooms": [
     {
       "platform": "bilibili",
       "id": "510",
       "name": "阿梓从小就很可爱",
-      "status": "live",
+      "status": "offline",
       "title": "打鸡蛋",
-      "online": 147259,
+      "online": 0,
       "area": "网游·CS2",
-      "time": "2026-10-14 04:33:52",
+      "time": "2026-10-14 05:06:47",
       "sec_uid": "",
-      "last_live": "2026-10-13 19:33:45",
-      "live_duration": "4h20min"
+      "last_live": "2026-10-14 00:13:36",
+      "live_duration": ""
     }
   ]
 }
