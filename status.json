@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13 20:25:05",
+  "updated": "2026-10-13 20:57:36",
   "rooms": [
     {
       "platform": "bilibili",
@@ -7,12 +7,12 @@
       "name": "阿梓从小就很可爱",
       "status": "live",
       "title": "本宝宝来唱歌了",
-      "online": 287914,
+      "online": 315764,
       "area": "虚拟主播·虚拟Singer",
-      "time": "2026-10-13 20:25:05",
+      "time": "2026-10-13 20:57:36",
       "sec_uid": "",
       "last_live": "2026-10-11 19:01:11",
-      "live_duration": "51min"
+      "live_duration": "1h23min"
     }
   ]
 }
