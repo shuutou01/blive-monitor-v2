@@ -1,20 +1,5 @@
 [
   {
-    "time": "2026-10-05 16:53:07",
-    "name": "傻坏蛋于东来",
-    "platform": "douyin",
-    "status": "new_post",
-    "title": "",
-    "changed": false,
-    "prev": null,
-    "push": null,
-    "rid": "zhuizhuguang61",
-    "type": "new_post",
-    "level": "info",
-    "detail": "[无描述]  https://www.douyin.com/video/7692978283473874158",
-    "account": "zhuizhuguang61"
-  },
-  {
     "time": "2026-10-05 16:53:41",
     "name": "白日梦想嘉",
     "platform": "douyin",
@@ -7486,6 +7471,21 @@
   },
   {
     "time": "2026-10-14 12:42:35",
+    "name": "阿梓从小就很可爱",
+    "platform": "bilibili",
+    "status": "offline",
+    "title": "打鸡蛋",
+    "changed": false,
+    "prev": null,
+    "push": null,
+    "rid": "510",
+    "type": "live_off",
+    "level": "info",
+    "detail": "",
+    "account": "510"
+  },
+  {
+    "time": "2026-10-14 13:13:31",
     "name": "阿梓从小就很可爱",
     "platform": "bilibili",
     "status": "offline",
