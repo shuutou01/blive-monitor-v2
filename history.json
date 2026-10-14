@@ -1,20 +1,5 @@
 [
   {
-    "time": "2026-10-05 16:53:41",
-    "name": "白日梦想嘉",
-    "platform": "douyin",
-    "status": "new_post",
-    "title": "",
-    "changed": false,
-    "prev": null,
-    "push": null,
-    "rid": "lelelelele0703",
-    "type": "new_post",
-    "level": "info",
-    "detail": "我的心向你倾斜了 你接住呀#09 #女高 #inmyfeelings  https://www.douyin.com/video/7693050166392161423",
-    "account": "lelelelele0703"
-  },
-  {
     "time": "2026-10-05 16:53:57",
     "name": "小夭等雪",
     "platform": "douyin",
@@ -7486,6 +7471,21 @@
   },
   {
     "time": "2026-10-14 13:13:31",
+    "name": "阿梓从小就很可爱",
+    "platform": "bilibili",
+    "status": "offline",
+    "title": "打鸡蛋",
+    "changed": false,
+    "prev": null,
+    "push": null,
+    "rid": "510",
+    "type": "live_off",
+    "level": "info",
+    "detail": "",
+    "account": "510"
+  },
+  {
+    "time": "2026-10-14 13:50:05",
     "name": "阿梓从小就很可爱",
     "platform": "bilibili",
     "status": "offline",
