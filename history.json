@@ -1,21 +1,6 @@
 [
   {
     "time": "2026-10-07 00:39:18",
-    "name": "账号已注销",
-    "platform": "douyin",
-    "status": "offline",
-    "title": "用户2079728788653正在直播",
-    "changed": false,
-    "prev": null,
-    "push": null,
-    "rid": "74597663503",
-    "type": "live_off",
-    "level": "info",
-    "detail": "",
-    "account": "74597663503"
-  },
-  {
-    "time": "2026-10-07 00:39:18",
     "name": "再动我就毙了你",
     "platform": "douyin",
     "status": "offline",
@@ -7486,6 +7471,21 @@
   },
   {
     "time": "2026-10-15 19:17:38",
+    "name": "阿梓从小就很可爱",
+    "platform": "bilibili",
+    "status": "live",
+    "title": "冰火盛典 天猫双11Aldol直播盛典",
+    "changed": false,
+    "prev": null,
+    "push": null,
+    "rid": "510",
+    "type": "live_on",
+    "level": "info",
+    "detail": "",
+    "account": "510"
+  },
+  {
+    "time": "2026-10-15 19:54:16",
     "name": "阿梓从小就很可爱",
     "platform": "bilibili",
     "status": "live",
