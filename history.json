@@ -1,20 +1,5 @@
 [
   {
-    "time": "2026-10-07 00:41:31",
-    "name": "小夭等雪",
-    "platform": "douyin",
-    "status": "new_post",
-    "title": "",
-    "changed": false,
-    "prev": null,
-    "push": null,
-    "rid": "XiaoyaoDx",
-    "type": "new_post",
-    "level": "info",
-    "detail": "#出门玩请本地人帮帮 #车内可爱小摆件 #Yoyo魔法少女 打了个顺风车，车挺可爱的，就是司机一直放这个音乐🤡  https://www.douyin.com/video/7693506783915268331",
-    "account": "XiaoyaoDx"
-  },
-  {
     "time": "2026-10-07 00:42:06",
     "name": "整天白日梦",
     "platform": "douyin",
@@ -7495,6 +7480,21 @@
     "push": null,
     "rid": "510",
     "type": "live_on",
+    "level": "info",
+    "detail": "",
+    "account": "510"
+  },
+  {
+    "time": "2026-10-15 22:39:19",
+    "name": "阿梓从小就很可爱",
+    "platform": "bilibili",
+    "status": "offline",
+    "title": "冰火盛典 天猫双11Aldol直播盛典",
+    "changed": true,
+    "prev": "live",
+    "push": null,
+    "rid": "510",
+    "type": "live_off",
     "level": "info",
     "detail": "",
     "account": "510"
