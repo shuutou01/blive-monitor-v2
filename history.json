@@ -1,21 +1,6 @@
 [
   {
     "time": "2026-10-07 08:42:03",
-    "name": "峰哥亡命天涯",
-    "platform": "bilibili",
-    "status": "offline",
-    "title": "be一下",
-    "changed": false,
-    "prev": null,
-    "push": null,
-    "rid": "22230707",
-    "type": "live_off",
-    "level": "info",
-    "detail": "",
-    "account": "22230707"
-  },
-  {
-    "time": "2026-10-07 08:42:03",
     "name": "长春小猪装机（只做性价比）",
     "platform": "douyin",
     "status": "offline",
@@ -7486,6 +7471,21 @@
   },
   {
     "time": "2026-10-16 05:44:46",
+    "name": "阿梓从小就很可爱",
+    "platform": "bilibili",
+    "status": "offline",
+    "title": "冰火盛典 天猫双11Aldol直播盛典",
+    "changed": false,
+    "prev": null,
+    "push": null,
+    "rid": "510",
+    "type": "live_off",
+    "level": "info",
+    "detail": "",
+    "account": "510"
+  },
+  {
+    "time": "2026-10-16 06:11:18",
     "name": "阿梓从小就很可爱",
     "platform": "bilibili",
     "status": "offline",
