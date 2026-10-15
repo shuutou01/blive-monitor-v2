@@ -1,18 +1,18 @@
 {
-  "updated": "2026-10-15 18:10:57",
+  "updated": "2026-10-15 18:49:30",
   "rooms": [
     {
       "platform": "bilibili",
       "id": "510",
       "name": "阿梓从小就很可爱",
       "status": "live",
-      "title": "锻刀之神！",
-      "online": 107269,
-      "area": "网游·CS2",
-      "time": "2026-10-15 18:10:57",
+      "title": "冰火盛典 天猫双11Aldol直播盛典",
+      "online": 39435,
+      "area": "虚拟主播·虚拟日常",
+      "time": "2026-10-15 18:49:30",
       "sec_uid": "",
       "last_live": "2026-10-15 13:47:38",
-      "live_duration": "35min"
+      "live_duration": "1h13min"
     }
   ]
 }
