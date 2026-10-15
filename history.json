@@ -1,20 +1,5 @@
 [
   {
-    "time": "2026-10-07 00:42:06",
-    "name": "整天白日梦",
-    "platform": "douyin",
-    "status": "new_post",
-    "title": "",
-    "changed": false,
-    "prev": null,
-    "push": null,
-    "rid": "81197422897",
-    "type": "new_post",
-    "level": "info",
-    "detail": "lovelovelove #手势舞  https://www.douyin.com/video/7693574326625655409",
-    "account": "81197422897"
-  },
-  {
     "time": "2026-10-07 00:43:25",
     "name": "D.my",
     "platform": "douyin",
@@ -7492,6 +7477,21 @@
     "title": "冰火盛典 天猫双11Aldol直播盛典",
     "changed": true,
     "prev": "live",
+    "push": null,
+    "rid": "510",
+    "type": "live_off",
+    "level": "info",
+    "detail": "",
+    "account": "510"
+  },
+  {
+    "time": "2026-10-15 23:16:02",
+    "name": "阿梓从小就很可爱",
+    "platform": "bilibili",
+    "status": "offline",
+    "title": "冰火盛典 天猫双11Aldol直播盛典",
+    "changed": false,
+    "prev": null,
     "push": null,
     "rid": "510",
     "type": "live_off",
