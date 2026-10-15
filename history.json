@@ -1,20 +1,5 @@
 [
   {
-    "time": "2026-10-06 11:01:41",
-    "name": "天才小象",
-    "platform": "douyin",
-    "status": "offline",
-    "title": "哈咯",
-    "changed": false,
-    "prev": null,
-    "push": null,
-    "rid": "1197109127",
-    "type": "live_off",
-    "level": "info",
-    "detail": "",
-    "account": "1197109127"
-  },
-  {
     "time": "2026-10-06 11:02:19",
     "name": "傻坏蛋于东来",
     "platform": "douyin",
@@ -7486,6 +7471,21 @@
   },
   {
     "time": "2026-10-15 08:00:25",
+    "name": "阿梓从小就很可爱",
+    "platform": "bilibili",
+    "status": "offline",
+    "title": "锻刀之神！",
+    "changed": false,
+    "prev": null,
+    "push": null,
+    "rid": "510",
+    "type": "live_off",
+    "level": "info",
+    "detail": "",
+    "account": "510"
+  },
+  {
+    "time": "2026-10-15 08:42:16",
     "name": "阿梓从小就很可爱",
     "platform": "bilibili",
     "status": "offline",
