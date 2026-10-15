@@ -1,18 +1,18 @@
 {
-  "updated": "2026-10-15 15:08:28",
+  "updated": "2026-10-15 15:49:24",
   "rooms": [
     {
       "platform": "bilibili",
       "id": "510",
       "name": "阿梓从小就很可爱",
-      "status": "live",
+      "status": "offline",
       "title": "锻刀之神！",
-      "online": 107201,
+      "online": 0,
       "area": "网游·CS2",
-      "time": "2026-10-15 15:08:28",
+      "time": "2026-10-15 15:49:24",
       "sec_uid": "",
-      "last_live": "2026-10-14 19:54:10",
-      "live_duration": "1h20min"
+      "last_live": "2026-10-15 13:47:38",
+      "live_duration": ""
     }
   ]
 }
