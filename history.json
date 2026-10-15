@@ -1,20 +1,5 @@
 [
   {
-    "time": "2026-10-07 00:41:13",
-    "name": "白日梦想嘉",
-    "platform": "douyin",
-    "status": "cookie_warn",
-    "title": "",
-    "changed": false,
-    "prev": null,
-    "push": null,
-    "rid": "lelelelele0703",
-    "type": "cookie_warn",
-    "level": "warn",
-    "detail": "抖音接口被风控，配置 douyin_cookie 可获取具体作品",
-    "account": "lelelelele0703"
-  },
-  {
     "time": "2026-10-07 00:41:31",
     "name": "小夭等雪",
     "platform": "douyin",
@@ -7486,6 +7471,21 @@
   },
   {
     "time": "2026-10-15 21:18:40",
+    "name": "阿梓从小就很可爱",
+    "platform": "bilibili",
+    "status": "live",
+    "title": "冰火盛典 天猫双11Aldol直播盛典",
+    "changed": false,
+    "prev": null,
+    "push": null,
+    "rid": "510",
+    "type": "live_on",
+    "level": "info",
+    "detail": "",
+    "account": "510"
+  },
+  {
+    "time": "2026-10-15 22:02:06",
     "name": "阿梓从小就很可爱",
     "platform": "bilibili",
     "status": "live",
