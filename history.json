@@ -1,20 +1,5 @@
 [
   {
-    "time": "2026-10-08 03:34:08",
-    "name": "峰哥亡命天涯",
-    "platform": "douyin",
-    "status": "cookie_warn",
-    "title": "",
-    "changed": false,
-    "prev": null,
-    "push": null,
-    "rid": "FengBro",
-    "type": "cookie_warn",
-    "level": "warn",
-    "detail": "抖音接口被风控，配置 douyin_cookie 可获取具体作品",
-    "account": "FengBro"
-  },
-  {
     "time": "2026-10-08 03:35:56",
     "name": "小曲开心",
     "platform": "douyin",
@@ -7495,6 +7480,21 @@
     "push": null,
     "rid": "510",
     "type": "live_on",
+    "level": "info",
+    "detail": "",
+    "account": "510"
+  },
+  {
+    "time": "2026-10-17 05:00:31",
+    "name": "阿梓从小就很可爱",
+    "platform": "bilibili",
+    "status": "offline",
+    "title": "本宝宝来了",
+    "changed": true,
+    "prev": "live",
+    "push": null,
+    "rid": "510",
+    "type": "live_off",
     "level": "info",
     "detail": "",
     "account": "510"
