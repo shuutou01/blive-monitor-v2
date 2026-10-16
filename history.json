@@ -1,21 +1,6 @@
 [
   {
     "time": "2026-10-07 14:28:51",
-    "name": "Yifei",
-    "platform": "douyin",
-    "status": "offline",
-    "title": "纯素颜",
-    "changed": false,
-    "prev": null,
-    "push": null,
-    "rid": "jiubugaosuni315",
-    "type": "live_off",
-    "level": "info",
-    "detail": "",
-    "account": "jiubugaosuni315"
-  },
-  {
-    "time": "2026-10-07 14:28:51",
     "name": "披萨解说",
     "platform": "douyin",
     "status": "offline",
@@ -7486,6 +7471,21 @@
   },
   {
     "time": "2026-10-16 12:37:14",
+    "name": "阿梓从小就很可爱",
+    "platform": "bilibili",
+    "status": "offline",
+    "title": "冰火盛典 天猫双11Aldol直播盛典",
+    "changed": false,
+    "prev": null,
+    "push": null,
+    "rid": "510",
+    "type": "live_off",
+    "level": "info",
+    "detail": "",
+    "account": "510"
+  },
+  {
+    "time": "2026-10-16 13:10:32",
     "name": "阿梓从小就很可爱",
     "platform": "bilibili",
     "status": "offline",
