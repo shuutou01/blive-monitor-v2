@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-16 20:18:42",
+  "updated": "2026-10-16 21:09:00",
   "rooms": [
     {
       "platform": "bilibili",
       "id": "510",
       "name": "阿梓从小就很可爱",
-      "status": "offline",
-      "title": "冰火盛典 天猫双11Aldol直播盛典",
-      "online": 0,
-      "area": "虚拟主播·虚拟日常",
-      "time": "2026-10-16 20:18:42",
+      "status": "live",
+      "title": "本宝宝来了",
+      "online": 161225,
+      "area": "网游·CS2",
+      "time": "2026-10-16 21:09:00",
       "sec_uid": "",
       "last_live": "2026-10-15 17:35:33",
       "live_duration": ""
