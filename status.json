@@ -1,18 +1,18 @@
 {
-  "updated": "2026-10-19 04:01:35",
+  "updated": "2026-10-19 04:30:18",
   "rooms": [
     {
       "platform": "bilibili",
       "id": "510",
       "name": "阿梓从小就很可爱",
-      "status": "live",
+      "status": "offline",
       "title": "本宝宝来了",
-      "online": 155183,
+      "online": 0,
       "area": "网游·CS2",
-      "time": "2026-10-19 04:01:35",
+      "time": "2026-10-19 04:30:18",
       "sec_uid": "",
-      "last_live": "2026-10-17 19:53:42",
-      "live_duration": "5h55min"
+      "last_live": "2026-10-18 22:05:49",
+      "live_duration": ""
     }
   ]
 }
