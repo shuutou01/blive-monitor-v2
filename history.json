@@ -1,21 +1,6 @@
 [
   {
     "time": "2026-10-09 15:51:29",
-    "name": "账号已注销",
-    "platform": "douyin",
-    "status": "offline",
-    "title": "用户2079728788653正在直播",
-    "changed": false,
-    "prev": null,
-    "push": null,
-    "rid": "74597663503",
-    "type": "live_off",
-    "level": "info",
-    "detail": "",
-    "account": "74597663503"
-  },
-  {
-    "time": "2026-10-09 15:51:29",
     "name": "再动我就毙了你",
     "platform": "douyin",
     "status": "offline",
@@ -7486,6 +7471,21 @@
   },
   {
     "time": "2026-10-18 15:47:58",
+    "name": "阿梓从小就很可爱",
+    "platform": "bilibili",
+    "status": "offline",
+    "title": "本宝宝来了",
+    "changed": false,
+    "prev": null,
+    "push": null,
+    "rid": "510",
+    "type": "live_off",
+    "level": "info",
+    "detail": "",
+    "account": "510"
+  },
+  {
+    "time": "2026-10-18 16:09:57",
     "name": "阿梓从小就很可爱",
     "platform": "bilibili",
     "status": "offline",
