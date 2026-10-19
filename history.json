@@ -1,20 +1,5 @@
 [
   {
-    "time": "2026-10-10 16:59:43",
-    "name": "傻坏蛋于东来",
-    "platform": "douyin",
-    "status": "cookie_warn",
-    "title": "",
-    "changed": false,
-    "prev": null,
-    "push": null,
-    "rid": "zhuizhuguang61",
-    "type": "cookie_warn",
-    "level": "warn",
-    "detail": "抖音接口被风控，配置 douyin_cookie 可获取具体作品",
-    "account": "zhuizhuguang61"
-  },
-  {
     "time": "2026-10-10 17:00:21",
     "name": "峰哥亡命天涯",
     "platform": "douyin",
@@ -7486,6 +7471,21 @@
   },
   {
     "time": "2026-10-19 21:47:11",
+    "name": "阿梓从小就很可爱",
+    "platform": "bilibili",
+    "status": "offline",
+    "title": "本宝宝来了",
+    "changed": false,
+    "prev": null,
+    "push": null,
+    "rid": "510",
+    "type": "live_off",
+    "level": "info",
+    "detail": "",
+    "account": "510"
+  },
+  {
+    "time": "2026-10-19 22:25:23",
     "name": "阿梓从小就很可爱",
     "platform": "bilibili",
     "status": "offline",
