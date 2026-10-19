@@ -1,21 +1,6 @@
 [
   {
     "time": "2026-10-10 23:04:15",
-    "name": "峰哥亡命天涯",
-    "platform": "bilibili",
-    "status": "offline",
-    "title": "独播丨围观杜兰特x徐静雨世纪会面",
-    "changed": false,
-    "prev": null,
-    "push": null,
-    "rid": "22230707",
-    "type": "live_off",
-    "level": "info",
-    "detail": "",
-    "account": "22230707"
-  },
-  {
-    "time": "2026-10-10 23:04:15",
     "name": "长春小猪装机（只做性价比）",
     "platform": "douyin",
     "status": "offline",
@@ -7495,6 +7480,21 @@
     "push": null,
     "rid": "510",
     "type": "live_off",
+    "level": "info",
+    "detail": "",
+    "account": "510"
+  },
+  {
+    "time": "2026-10-20 00:58:27",
+    "name": "阿梓从小就很可爱",
+    "platform": "bilibili",
+    "status": "live",
+    "title": "播一会调整作息",
+    "changed": true,
+    "prev": "offline",
+    "push": "pushed_ok",
+    "rid": "510",
+    "type": "live_on",
     "level": "info",
     "detail": "",
     "account": "510"
