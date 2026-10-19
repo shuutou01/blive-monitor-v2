@@ -1,21 +1,6 @@
 [
   {
     "time": "2026-10-10 23:04:15",
-    "name": "Yifei",
-    "platform": "douyin",
-    "status": "live",
-    "title": "真男人从不站门口",
-    "changed": true,
-    "prev": "offline",
-    "push": "no_sendkey",
-    "rid": "jiubugaosuni315",
-    "type": "live_on",
-    "level": "info",
-    "detail": "",
-    "account": "jiubugaosuni315"
-  },
-  {
-    "time": "2026-10-10 23:04:15",
     "name": "披萨解说",
     "platform": "douyin",
     "status": "live",
@@ -7486,6 +7471,21 @@
   },
   {
     "time": "2026-10-20 02:02:38",
+    "name": "阿梓从小就很可爱",
+    "platform": "bilibili",
+    "status": "live",
+    "title": "播一会调整作息",
+    "changed": false,
+    "prev": null,
+    "push": null,
+    "rid": "510",
+    "type": "live_on",
+    "level": "info",
+    "detail": "",
+    "account": "510"
+  },
+  {
+    "time": "2026-10-20 02:42:25",
     "name": "阿梓从小就很可爱",
     "platform": "bilibili",
     "status": "live",
