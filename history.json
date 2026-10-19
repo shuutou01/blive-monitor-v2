@@ -1,20 +1,5 @@
 [
   {
-    "time": "2026-10-10 23:04:54",
-    "name": "傻坏蛋于东来",
-    "platform": "douyin",
-    "status": "cookie_warn",
-    "title": "",
-    "changed": false,
-    "prev": null,
-    "push": null,
-    "rid": "zhuizhuguang61",
-    "type": "cookie_warn",
-    "level": "warn",
-    "detail": "抖音接口被风控，配置 douyin_cookie 可获取具体作品",
-    "account": "zhuizhuguang61"
-  },
-  {
     "time": "2026-10-10 23:06:12",
     "name": "整天白日梦",
     "platform": "douyin",
@@ -7486,6 +7471,21 @@
   },
   {
     "time": "2026-10-20 05:37:34",
+    "name": "阿梓从小就很可爱",
+    "platform": "bilibili",
+    "status": "offline",
+    "title": "播一会调整作息",
+    "changed": false,
+    "prev": null,
+    "push": null,
+    "rid": "510",
+    "type": "live_off",
+    "level": "info",
+    "detail": "",
+    "account": "510"
+  },
+  {
+    "time": "2026-10-20 06:10:07",
     "name": "阿梓从小就很可爱",
     "platform": "bilibili",
     "status": "offline",
