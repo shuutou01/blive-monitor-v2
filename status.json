@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-20 19:13:54",
+  "updated": "2026-10-20 19:51:42",
   "rooms": [
     {
       "platform": "bilibili",
       "id": "510",
       "name": "阿梓从小就很可爱",
-      "status": "offline",
-      "title": "播一会调整作息",
-      "online": 0,
-      "area": "网游·英雄联盟",
-      "time": "2026-10-20 19:13:54",
+      "status": "live",
+      "title": "开心五黑go！",
+      "online": 185186,
+      "area": "网游·CS2",
+      "time": "2026-10-20 19:51:42",
       "sec_uid": "",
       "last_live": "2026-10-20 00:58:27",
       "live_duration": ""
