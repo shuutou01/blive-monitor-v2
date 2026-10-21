@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-21 18:58:52",
+  "updated": "2026-10-21 19:34:04",
   "rooms": [
     {
       "platform": "bilibili",
       "id": "510",
       "name": "阿梓从小就很可爱",
-      "status": "offline",
-      "title": "开心五黑go！",
-      "online": 0,
-      "area": "网游·CS2",
-      "time": "2026-10-21 18:58:52",
+      "status": "live",
+      "title": "唱歌！！",
+      "online": 223031,
+      "area": "虚拟主播·虚拟Singer",
+      "time": "2026-10-21 19:34:04",
       "sec_uid": "",
       "last_live": "2026-10-20 19:51:42",
       "live_duration": ""
