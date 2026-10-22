@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-23 00:29:26",
+  "updated": "2026-10-23 01:04:17",
   "rooms": [
     {
       "platform": "bilibili",
       "id": "510",
       "name": "阿梓从小就很可爱",
-      "status": "offline",
-      "title": "唱歌！！",
-      "online": 0,
-      "area": "虚拟主播·虚拟Singer",
-      "time": "2026-10-23 00:29:26",
+      "status": "live",
+      "title": "玩玩新版海克斯！！",
+      "online": 164415,
+      "area": "网游·英雄联盟",
+      "time": "2026-10-23 01:04:17",
       "sec_uid": "",
       "last_live": "2026-10-21 19:34:04",
       "live_duration": ""
