@@ -1,20 +1,5 @@
 [
   {
-    "time": "2026-10-16 02:11:55",
-    "name": "阿梓从小就很可爱",
-    "platform": "bilibili",
-    "status": "offline",
-    "title": "冰火盛典 天猫双11Aldol直播盛典",
-    "changed": false,
-    "prev": null,
-    "push": null,
-    "rid": "510",
-    "type": "live_off",
-    "level": "info",
-    "detail": "",
-    "account": "510"
-  },
-  {
     "time": "2026-10-16 02:58:34",
     "name": "阿梓从小就很可爱",
     "platform": "bilibili",
@@ -7495,6 +7480,21 @@
     "push": null,
     "rid": "510",
     "type": "live_on",
+    "level": "info",
+    "detail": "",
+    "account": "510"
+  },
+  {
+    "time": "2026-10-28 03:14:24",
+    "name": "阿梓从小就很可爱",
+    "platform": "bilibili",
+    "status": "offline",
+    "title": "全力考",
+    "changed": true,
+    "prev": "live",
+    "push": null,
+    "rid": "510",
+    "type": "live_off",
     "level": "info",
     "detail": "",
     "account": "510"
