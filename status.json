@@ -1,18 +1,18 @@
 {
-  "updated": "2026-10-28 23:23:05",
+  "updated": "2026-10-29 00:19:18",
   "rooms": [
     {
       "platform": "bilibili",
       "id": "510",
       "name": "阿梓从小就很可爱",
-      "status": "live",
+      "status": "offline",
       "title": "我不要拖后腿",
-      "online": 272891,
+      "online": 0,
       "area": "手游·王者荣耀",
-      "time": "2026-10-28 23:23:05",
+      "time": "2026-10-29 00:19:18",
       "sec_uid": "",
-      "last_live": "2026-10-27 19:59:45",
-      "live_duration": "5h6min"
+      "last_live": "2026-10-28 18:16:26",
+      "live_duration": ""
     }
   ]
 }
