@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30 20:24:02",
+  "updated": "2026-10-30 21:31:09",
   "rooms": [
     {
       "platform": "bilibili",
@@ -7,12 +7,12 @@
       "name": "阿梓从小就很可爱",
       "status": "live",
       "title": "唱会一会练射手",
-      "online": 233844,
+      "online": 251016,
       "area": "虚拟主播·虚拟Singer",
-      "time": "2026-10-30 20:24:02",
+      "time": "2026-10-30 21:31:09",
       "sec_uid": "",
       "last_live": "2026-10-29 19:37:22",
-      "live_duration": "52min"
+      "live_duration": "1h59min"
     }
   ]
 }
