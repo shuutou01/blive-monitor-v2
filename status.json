@@ -1,18 +1,18 @@
 {
-  "updated": "2026-10-31 02:24:35",
+  "updated": "2026-10-31 03:19:26",
   "rooms": [
     {
       "platform": "bilibili",
       "id": "510",
       "name": "阿梓从小就很可爱",
-      "status": "live",
+      "status": "offline",
       "title": "唱会一会练射手",
-      "online": 184880,
+      "online": 0,
       "area": "手游·王者荣耀",
-      "time": "2026-10-31 02:24:35",
+      "time": "2026-10-31 03:19:26",
       "sec_uid": "",
-      "last_live": "2026-10-29 19:37:22",
-      "live_duration": "6h53min"
+      "last_live": "2026-10-30 19:31:31",
+      "live_duration": ""
     }
   ]
 }
