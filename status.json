@@ -1,18 +1,18 @@
 {
-  "updated": "2026-10-31 20:37:18",
+  "updated": "2026-10-31 21:28:37",
   "rooms": [
     {
       "platform": "bilibili",
       "id": "510",
       "name": "阿梓从小就很可爱",
       "status": "live",
-      "title": "和芋头一起玩生死狙击~",
-      "online": 171874,
-      "area": "网游·生死狙击2",
-      "time": "2026-10-31 20:37:18",
+      "title": "撸友",
+      "online": 179586,
+      "area": "网游·英雄联盟",
+      "time": "2026-10-31 21:28:37",
       "sec_uid": "",
       "last_live": "2026-10-31 14:10:07",
-      "live_duration": "1h22min"
+      "live_duration": "2h13min"
     }
   ]
 }
