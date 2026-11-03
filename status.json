@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04 02:11:36",
+  "updated": "2026-11-04 03:10:32",
   "rooms": [
     {
       "platform": "bilibili",
@@ -7,12 +7,12 @@
       "name": "阿梓从小就很可爱",
       "status": "live",
       "title": "小鸡要饿死了",
-      "online": 167619,
+      "online": 161398,
       "area": "网游·CS2",
-      "time": "2026-11-04 02:11:36",
+      "time": "2026-11-04 03:10:32",
       "sec_uid": "",
       "last_live": "2026-11-01 18:59:02",
-      "live_duration": "50min"
+      "live_duration": "1h48min"
     }
   ]
 }
