@@ -1,20 +1,5 @@
 [
   {
-    "time": "2026-10-20 18:42:21",
-    "name": "阿梓从小就很可爱",
-    "platform": "bilibili",
-    "status": "offline",
-    "title": "播一会调整作息",
-    "changed": false,
-    "prev": null,
-    "push": null,
-    "rid": "510",
-    "type": "live_off",
-    "level": "info",
-    "detail": "",
-    "account": "510"
-  },
-  {
     "time": "2026-10-20 19:13:54",
     "name": "阿梓从小就很可爱",
     "platform": "bilibili",
@@ -7495,6 +7480,21 @@
     "push": null,
     "rid": "510",
     "type": "live_off",
+    "level": "info",
+    "detail": "",
+    "account": "510"
+  },
+  {
+    "time": "2026-11-04 01:21:33",
+    "name": "阿梓从小就很可爱",
+    "platform": "bilibili",
+    "status": "live",
+    "title": "小鸡要饿死了",
+    "changed": true,
+    "prev": "offline",
+    "push": "pushed_ok",
+    "rid": "510",
+    "type": "live_on",
     "level": "info",
     "detail": "",
     "account": "510"

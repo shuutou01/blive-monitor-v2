@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-04 00:21:00",
+  "updated": "2026-11-04 01:21:33",
   "rooms": [
     {
       "platform": "bilibili",
       "id": "510",
       "name": "阿梓从小就很可爱",
-      "status": "offline",
-      "title": "当沙包",
-      "online": 0,
-      "area": "网游·英雄联盟",
-      "time": "2026-11-04 00:21:00",
+      "status": "live",
+      "title": "小鸡要饿死了",
+      "online": 161673,
+      "area": "网游·CS2",
+      "time": "2026-11-04 01:21:33",
       "sec_uid": "",
       "last_live": "2026-11-01 18:59:02",
       "live_duration": ""
