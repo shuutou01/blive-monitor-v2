@@ -1,17 +1,17 @@
 {
-  "updated": "2026-11-07 15:39:21",
+  "updated": "2026-11-07 16:29:32",
   "rooms": [
     {
       "platform": "bilibili",
       "id": "510",
       "name": "阿梓从小就很可爱",
-      "status": "live",
+      "status": "offline",
       "title": "农友杯",
-      "online": 209621,
+      "online": 0,
       "area": "手游·王者荣耀",
-      "time": "2026-11-07 15:39:21",
+      "time": "2026-11-07 16:29:32",
       "sec_uid": "",
-      "last_live": "2026-11-06 23:30:06",
+      "last_live": "2026-11-07 15:39:21",
       "live_duration": ""
     }
   ]
