@@ -1,18 +1,18 @@
 {
-  "updated": "2026-11-07 22:05:16",
+  "updated": "2026-11-07 22:46:03",
   "rooms": [
     {
       "platform": "bilibili",
       "id": "510",
       "name": "阿梓从小就很可爱",
-      "status": "live",
+      "status": "offline",
       "title": "煮螺蛳粉聊聊天！",
-      "online": 206026,
+      "online": 0,
       "area": "虚拟主播·虚拟日常",
-      "time": "2026-11-07 22:05:16",
+      "time": "2026-11-07 22:46:03",
       "sec_uid": "",
-      "last_live": "2026-11-07 15:39:21",
-      "live_duration": "1h50min"
+      "last_live": "2026-11-07 20:15:09",
+      "live_duration": ""
     }
   ]
 }
