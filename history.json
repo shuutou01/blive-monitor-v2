@@ -1,20 +1,5 @@
 [
   {
-    "time": "2026-10-24 00:50:52",
-    "name": "阿梓从小就很可爱",
-    "platform": "bilibili",
-    "status": "live",
-    "title": "享受盛宴",
-    "changed": true,
-    "prev": "offline",
-    "push": "pushed_ok",
-    "rid": "510",
-    "type": "live_on",
-    "level": "info",
-    "detail": "",
-    "account": "510"
-  },
-  {
     "time": "2026-10-24 01:01:09",
     "name": "阿梓从小就很可爱",
     "platform": "bilibili",
@@ -7495,6 +7480,21 @@
     "push": null,
     "rid": "510",
     "type": "live_off",
+    "level": "info",
+    "detail": "",
+    "account": "510"
+  },
+  {
+    "time": "2026-11-08 19:22:06",
+    "name": "阿梓从小就很可爱",
+    "platform": "bilibili",
+    "status": "live",
+    "title": "看会kpl",
+    "changed": true,
+    "prev": "offline",
+    "push": "pushed_ok",
+    "rid": "510",
+    "type": "live_on",
     "level": "info",
     "detail": "",
     "account": "510"
