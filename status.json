@@ -1,18 +1,18 @@
 {
-  "updated": "2026-11-09 09:42:40",
+  "updated": "2026-11-09 10:38:00",
   "rooms": [
     {
       "platform": "bilibili",
       "id": "510",
       "name": "阿梓从小就很可爱",
-      "status": "live",
+      "status": "offline",
       "title": "全力支持blg",
-      "online": 470782,
+      "online": 0,
       "area": "网游·英雄联盟",
-      "time": "2026-11-09 09:42:40",
+      "time": "2026-11-09 10:38:00",
       "sec_uid": "",
-      "last_live": "2026-11-08 19:22:06",
-      "live_duration": "3h50min"
+      "last_live": "2026-11-09 05:52:39",
+      "live_duration": ""
     }
   ]
 }
