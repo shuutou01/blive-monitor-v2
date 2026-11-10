@@ -1,20 +1,5 @@
 [
   {
-    "time": "2026-10-24 21:50:12",
-    "name": "阿梓从小就很可爱",
-    "platform": "bilibili",
-    "status": "offline",
-    "title": "全力考",
-    "changed": true,
-    "prev": "live",
-    "push": null,
-    "rid": "510",
-    "type": "live_off",
-    "level": "info",
-    "detail": "",
-    "account": "510"
-  },
-  {
     "time": "2026-10-24 22:13:57",
     "name": "阿梓从小就很可爱",
     "platform": "bilibili",
@@ -7495,6 +7480,21 @@
     "push": "pushed_ok",
     "rid": "510",
     "type": "live_on",
+    "level": "info",
+    "detail": "",
+    "account": "510"
+  },
+  {
+    "time": "2026-11-11 05:30:14",
+    "name": "阿梓从小就很可爱",
+    "platform": "bilibili",
+    "status": "offline",
+    "title": "重走峡谷路",
+    "changed": true,
+    "prev": "live",
+    "push": null,
+    "rid": "510",
+    "type": "live_off",
     "level": "info",
     "detail": "",
     "account": "510"
