@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-11 09:27:23",
+  "updated": "2026-11-11 16:16:46",
   "rooms": [
     {
       "platform": "bilibili",
       "id": "510",
       "name": "阿梓从小就很可爱",
-      "status": "offline",
-      "title": "重走峡谷路",
-      "online": 0,
-      "area": "网游·英雄联盟",
-      "time": "2026-11-11 09:27:23",
+      "status": "live",
+      "title": "绿龙！",
+      "online": 279822,
+      "area": "网游·CS2",
+      "time": "2026-11-11 16:16:46",
       "sec_uid": "",
       "last_live": "2026-11-10 23:48:56",
       "live_duration": ""
