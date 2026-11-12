@@ -1,6 +1,8 @@
 name: 直播状态检测
 
 on:
+  schedule:
+    - cron: "*/10 * * * *"
   workflow_dispatch:
   push:
     paths:
@@ -61,8 +63,12 @@ jobs:
         env:
           BLIVE_CONFIG: ${{ secrets.BLIVE_CONFIG }}
         run: |
-          echo "配置长度: ${#BLIVE_CONFIG}"
-          python3 check_status.py
+          for i in $(seq 1 72); do
+            echo "===== 第 $i 轮检测 ====="
+            python3 check_status.py
+            echo "等待 5 分钟后下一轮..."
+            sleep 300
+          done
 
       # 新作品监控（无头浏览器抓取用户主页，绕过抖音反爬；列表来自独立的 post_rooms.json）
       - name: Check new posts
