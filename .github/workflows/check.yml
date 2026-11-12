@@ -1,8 +1,6 @@
 name: 直播状态检测
 
 on:
-  # 注意：GitHub Actions schedule 不太稳定，可能延迟或跳过
-  # 建议配合外部 cron 服务（如 cron-job.org）使用，通过 workflow_dispatch 触发
   workflow_dispatch:
   push:
     paths:
